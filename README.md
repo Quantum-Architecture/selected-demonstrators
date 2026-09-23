@@ -1,20 +1,13 @@
-# Quantum Excellium — Selected Demonstrators
+# Selected demonstrators
+Public, non-enabling demonstrations from Quantum Excellium Marango. Each one runs **entirely in the browser, offline**, with no data transmitted.
 
-A curated set of public, non-sensitive interactive demonstrators.
+| Demonstrator | What it shows | Where |
+|---|---|---|
+| **ledger-verify** | an append-only record makes later alteration detectable | [repository](https://github.com/Quantum-Architecture/ledger-verify) |
+| **Syngnosium** | human and model succeed only together; deception ends the session | AI Worlds — quantumexcellium.com |
+| **Parcivium** | distinct possibles per unit of energy; fail-closed budget | AI Worlds — quantumexcellium.com |
+| **Ludonirium** | consent, bounded body, dream, replay capsule | AI Worlds — quantumexcellium.com |
+| **Game Division** | sixteen interactive worlds, each playable in one file | Simulations — quantumexcellium.com |
 
-## Featured
-
-- [Surhomme Quantique Enterprise](https://quantumexcellium.com/demos/surhomme-enterprise.html)
-- [AI Worlds — French](https://quantumexcellium.com/fr/ai-worlds.html)
-- [AI Worlds — English](https://quantumexcellium.com/en/ai-worlds.html)
-- [Ludonirium](https://quantumexcellium.com/demos/ludonirium.html)
-- [Parcivium](https://quantumexcellium.com/demos/parcivium.html)
-- [Syngnosium](https://quantumexcellium.com/demos/syngnosium.html)
-
-## Demonstrator hub
-
-- [https://quantumexcellium.com/demos/](https://quantumexcellium.com/demos/)
-
-These public demonstrators do not expose proprietary source code, private orchestration logic or patent-enabling implementation details.
-
-Engineering Intelligence. Securing Autonomy.
+## Why so little code here
+These demonstrators are designed to make ideas, constraints and system behaviour understandable **without** exposing proprietary implementation. What is published is enough to judge the principle; what is withheld is what would allow reconstruction.
