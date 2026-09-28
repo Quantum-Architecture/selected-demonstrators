@@ -1,13 +1,50 @@
-# Selected demonstrators
-Public, non-enabling demonstrations from Quantum Excellium Marango. Each one runs **entirely in the browser, offline**, with no data transmitted.
+# Selected Demonstrators
 
-| Demonstrator | What it shows | Where |
-|---|---|---|
-| **ledger-verify** | an append-only record makes later alteration detectable | [repository](https://github.com/Quantum-Architecture/ledger-verify) |
-| **Syngnosium** | human and model succeed only together; deception ends the session | AI Worlds — quantumexcellium.com |
-| **Parcivium** | distinct possibles per unit of energy; fail-closed budget | AI Worlds — quantumexcellium.com |
-| **Ludonirium** | consent, bounded body, dream, replay capsule | AI Worlds — quantumexcellium.com |
-| **Game Division** | sixteen interactive worlds, each playable in one file | Simulations — quantumexcellium.com |
+Curated index of Quantum Excellium public demonstrations.
 
-## Why so little code here
-These demonstrators are designed to make ideas, constraints and system behaviour understandable **without** exposing proprietary implementation. What is published is enough to judge the principle; what is withheld is what would allow reconstruction.
+The goal is to make public verification easy to navigate without exposing licensed or patent-enabling implementation.
+
+## QEC governed-agent demo
+
+https://github.com/Quantum-Architecture/qec-governed-agent-demo
+
+Same agent, same task set:
+- one execution without the governance shim;
+- one execution with pre-tool policy, budget and authority checks;
+- denials journaled;
+- final ledger verifiable.
+
+## Ledger verifier
+
+https://github.com/Quantum-Architecture/ledger-verify
+
+Dependency-free public verifier for compatible hash-chained JSONL ledgers.
+
+## Surhomme Quantique Enterprise
+
+Public interactive demonstrator hosted on:
+https://quantumexcellium.com
+
+## AI Worlds
+
+Public overview and protocols:
+https://github.com/Quantum-Architecture/ai-worlds
+
+## Demonstrator acceptance rule
+
+A public demonstrator should have:
+- a clear question it answers;
+- a reproducible public entry point;
+- visible expected output;
+- explicit limitations;
+- no hidden dependency on private credentials;
+- no enabling patent disclosure;
+- no unmeasured performance claim.
+
+## Proof over presentation
+
+Marketing visuals may illustrate a product, but proof claims should link to code, terminal output, hashes, ledgers, tests or protocol artifacts.
+
+## Disclosure boundary
+
+No licensed runtime, private Local Core, internal prompt chain, proprietary thresholds or defence-sensitive material should be committed here.
