@@ -1,5 +1,7 @@
 # Selected Demonstrators
 
+[![self-check](https://github.com/Quantum-Architecture/selected-demonstrators/actions/workflows/public-repo.yml/badge.svg)](https://github.com/Quantum-Architecture/selected-demonstrators/actions/workflows/public-repo.yml)
+
 Curated index of Quantum Excellium public demonstrations.
 
 The goal is to make public verification easy to navigate without exposing licensed or patent-enabling implementation.
